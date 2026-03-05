@@ -14,6 +14,7 @@ I'm interested in **backend development, DevOps, and AI**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
 
 ## 📊 GitHub Stats
 
