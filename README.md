@@ -17,9 +17,9 @@ I'm interested in **backend development, DevOps, and AI**.
 
 ## 📊 GitHub Stats
 
-![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kareem-izzat&show_icons=true&theme=radical)
+![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kareem-izzat&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-izzat&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-izzat&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kareem-izzat&theme=radical)
 
