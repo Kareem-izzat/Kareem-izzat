@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kareem Alqutob
 
-I'm a **Computer Engineering ** and a **backend developer**.  
+I'm a **Computer Engineer** and a **backend developer**.  
 I'm interested in **backend development, DevOps, and AI**.
 
 ---
